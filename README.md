@@ -1,2 +1,2 @@
-# xxxsiges-backend
+# xxxsiges
 Sistema de Gestão de Seguros
