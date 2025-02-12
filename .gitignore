@@ -10,6 +10,10 @@
 !.yarn/releases
 !.yarn/versions
 
+echo "node_modules/" >> .gitignore
+echo ".env" >> .gitignore
+echo "/prisma/migrations/" >> .gitignore
+
 # testing
 /coverage
 
